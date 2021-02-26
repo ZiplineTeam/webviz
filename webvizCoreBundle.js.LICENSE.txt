@@ -1633,7 +1633,9 @@ and limitations under the License.
 
 /*! ModuleConcatenation bailout: Cannot concat with ./packages/webviz-core/node_modules/@babel/runtime/helpers/esm/extends.js because of ./packages/webviz-core/node_modules/history/esm/history.js */
 
-/*! ModuleConcatenation bailout: Cannot concat with ./packages/webviz-core/node_modules/@babel/runtime/helpers/esm/extends.js because of ./packages/webviz-core/node_modules/react-router-dom/esm/react-router-dom.js */
+/*! ModuleConcatenation bailout: Cannot concat with ./packages/webviz-core/node_modules/@babel/runtime/helpers/esm/extends.js because of ./packages/webviz-core/node_modules/react-redux/es/index.js */
+
+/*! ModuleConcatenation bailout: Cannot concat with ./packages/webviz-core/node_modules/@babel/runtime/helpers/esm/inheritsLoose.js because of ./packages/webviz-core/node_modules/react-redux/es/index.js */
 
 /*! ModuleConcatenation bailout: Cannot concat with ./packages/webviz-core/node_modules/@babel/runtime/helpers/esm/inheritsLoose.js because of ./packages/webviz-core/node_modules/react-router-dom/esm/react-router-dom.js */
 
@@ -1721,7 +1723,7 @@ and limitations under the License.
 
 /*! ModuleConcatenation bailout: Cannot concat with ./packages/webviz-core/node_modules/tiny-invariant/dist/tiny-invariant.esm.js because of ./packages/webviz-core/node_modules/history/esm/history.js */
 
-/*! ModuleConcatenation bailout: Cannot concat with ./packages/webviz-core/node_modules/tiny-invariant/dist/tiny-invariant.esm.js because of ./packages/webviz-core/node_modules/react-router/esm/react-router.js */
+/*! ModuleConcatenation bailout: Cannot concat with ./packages/webviz-core/node_modules/tiny-invariant/dist/tiny-invariant.esm.js because of ./packages/webviz-core/node_modules/react-router-dom/esm/react-router-dom.js */
 
 /*! ModuleConcatenation bailout: Cannot concat with ./packages/webviz-core/node_modules/tslib/tslib.es6.js because of ./packages/webviz-core/node_modules/@sentry/hub/esm/hub.js */
 
@@ -2655,6 +2657,8 @@ and limitations under the License.
 /*! webviz-core/src/dataProviders/getRemoteBagGuid */
 
 /*! webviz-core/src/dataProviders/rootGetDataProvider */
+
+/*! webviz-core/src/dataProviders/rosMarkerArrayDefinition */
 
 /*! webviz-core/src/dataProviders/standardDataProviderDescriptors */
 
@@ -6096,6 +6100,10 @@ and limitations under the License.
 
 /*!****************************************************************************!*\
   !*** ./packages/webviz-core/src/components/PanelToolbar/index.module.scss ***!
+  \****************************************************************************/
+
+/*!****************************************************************************!*\
+  !*** ./packages/webviz-core/src/dataProviders/rosMarkerArrayDefinition.js ***!
   \****************************************************************************/
 
 /*!*****************************************************************************!*\
